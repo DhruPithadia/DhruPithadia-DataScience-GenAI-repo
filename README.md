@@ -14,7 +14,7 @@ This repository contains all assignment notebooks, data analysis, and code devel
 
 [Assignment 3: Decision Trees](./Assignment_3/4_01_Decision_Trees_COMPLETED.ipynb)
 
-[Assignment 4: Modelling Hackathon Exercise](./Assignment_4/5_02_Modelling_Hackathon_COMPLETE.ipynb)
+[Assignment 4: Modelling Hackathon (Practise)](./Assignment_4/5_02_Modelling_Hackathon_COMPLETE.ipynb)
 
 [Assignment 5: DNN 101](./Assignment_5/6_02_DNN_101_COMPLETED.ipynb)
 
