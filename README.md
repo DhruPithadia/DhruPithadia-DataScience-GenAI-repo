@@ -18,6 +18,8 @@ This repository contains all assignment notebooks, data analysis, and code devel
 
 [Assignment 5: DNN 101](./Assignment_5/6_02_DNN_101_COMPLETED.ipynb)
 
+[Assignment 6: Week 7 Seminar Exercises Part a) and b)](./Assignment_6/Week7SeminarExercises_COMPLETED.ipynb)
+
 ## License
 
 This work is released under the MIT License.
